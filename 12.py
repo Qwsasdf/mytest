@@ -1,10 +1,1 @@
-test
-print()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
-print()
+Проверка проверка провкерка
